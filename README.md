@@ -1,5 +1,7 @@
 # Mock HTML Page - Tasmania, AUS Rock Climbing
 
+!(/photos/read)
+
 ## About
 This is a mock html page to provide information about planning a rock climbing trip to Tasmania, Australia.
 
